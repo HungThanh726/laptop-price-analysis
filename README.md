@@ -1,6 +1,6 @@
-Phân tích giá laptop dựa trên thông số kỹ thuật
+# Phân tích giá laptop dựa trên thông số kỹ thuật
 Mô tả
-Dự án phân tích giá laptop dựa trên tập dữ liệu laptop.csv từ Kaggle, sử dụng các thông số như RAM, SSD, CPU, và đồ họa. Mục tiêu là dự đoán giá bằng mô hình máy học và xác định các yếu tố chính ảnh hưởng đến giá.
+# Dự án phân tích giá laptop dựa trên tập dữ liệu laptop.csv từ Kaggle, sử dụng các thông số như RAM, SSD, CPU, và đồ họa. Mục tiêu là dự đoán giá bằng mô hình máy học và xác định các yếu tố chính ảnh hưởng đến giá.
 Mục tiêu
 
 Dự đoán giá laptop với độ chính xác cao.
