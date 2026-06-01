@@ -33,12 +33,6 @@ Laptop với RAM/SSD cao có giá cao hơn 30-50%.
 
 Hiệu suất mô hình: R² ~0.80-0.85, dự đoán giá chính xác trong ±5,000 INR cho phần lớn trường hợp.
 
-Hình ảnh
-![Tầm quan trọng đặc trưng](visualizations/plots/feature_importance.png)
-Phân phối giá:
-Giá theo RAM:
-Tầm quan trọng đặc trưng:
-
 Liên kết
 
 GitHub: https://github.com/HungThanh726/laptop-price-analysis
