@@ -17,10 +17,10 @@ Môi trường: `Jupyter Notebook`.
 
 **Quy trình**
 
-Làm sạch dữ liệu: Chuyển đổi Price, xử lý giá trị thiếu.
-Phân tích thăm dò (EDA): Vẽ biểu đồ phân phối giá, giá vs RAM/SSD, giá theo thương hiệu.
-Mô hình hóa: Sử dụng Random Forest Regressor với RAM, SSD (mã hóa) và Rating (R² ~0.80-0.85).
-Trực quan hóa: Biểu đồ boxplot, cột, và tầm quan trọng đặc trưng.
+1. Làm sạch dữ liệu: Chuyển đổi Price, xử lý giá trị thiếu.
+2. Phân tích thăm dò (EDA): Vẽ biểu đồ phân phối giá, giá vs RAM/SSD, giá theo thương hiệu.
+3. Mô hình hóa: Sử dụng Random Forest Regressor với RAM, SSD (mã hóa) và Rating (R² ~0.80-0.85).
+4. Trực quan hóa: Biểu đồ boxplot, cột, và tầm quan trọng đặc trưng.
 
 **Kết quả**
 
