@@ -11,9 +11,9 @@ Cột chính: `Model`, `Price`, `Rating`, `Ram`, `SSD`.
 
 **Công cụ**
 
-Python: Pandas, Scikit-learn.
-Trực quan hóa: Matplotlib, Seaborn.
-Môi trường: Jupyter Notebook.
+Python: `Pandas`, `Scikit-learn`.
+Trực quan hóa: `Matplotlib`,` Seaborn`.
+Môi trường: `Jupyter Notebook`.
 
 **Quy trình**
 
