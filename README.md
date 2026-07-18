@@ -23,13 +23,13 @@ Mô hình hóa: Sử dụng Random Forest Regressor với RAM, SSD (mã hóa) v�
 Trực quan hóa: Biểu đồ boxplot, cột, và tầm quan trọng đặc trưng.
 
 **Kết quả**
-```
+
 Thông tin chi tiết:  
 `RAM` và `SSD` ảnh hưởng mạnh đến giá.  
 `Laptop` với `RAM/SSD` cao có giá cao hơn `30-50%`.
 
 Hiệu suất mô hình: `R² ~0.80-0.85`, dự đoán giá chính xác trong ±5,000 INR cho phần lớn trường hợp.
-```
+
 Liên kết
 
 GitHub: https://github.com/HungThanh726/laptop-price-analysis
